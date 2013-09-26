@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="LastWallpaperDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="HeightMax" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">631</Value>
+    </Setting>
+    <Setting Name="HeightMin" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">365</Value>
+    </Setting>
+    <Setting Name="WallpaperFiles" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ChangeImage" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="WallpaperLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TempImage.bmp</Value>
+    </Setting>
+    <Setting Name="ComputerInfoFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Courier New, 12pt</Value>
+    </Setting>
+    <Setting Name="ScreenWidth" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1366</Value>
+    </Setting>
+    <Setting Name="ScreenHeight" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">768</Value>
+    </Setting>
+    <Setting Name="ComputerInfoX" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">500</Value>
+    </Setting>
+    <Setting Name="ComputerInfoY" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">500</Value>
+    </Setting>
+    <Setting Name="ComputerInfoShow" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="StartWallpaperChangeOnStartup" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="LastWallpaperDirectoryFilterIndex" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
